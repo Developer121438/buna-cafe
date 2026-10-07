@@ -8,9 +8,9 @@ The project was created as a front-end development portfolio project, with a foc
 
 ## 📌 Live Demo
 
-> Add your live website URL here after publishing.
+https://developer121438.github.io/buna-cafe/
 
-**Live Website:** `Coming soon`
+**Live Website:** 
 
 ---
 
