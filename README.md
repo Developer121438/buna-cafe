@@ -328,7 +328,7 @@ Because this project uses plain HTML, CSS, and JavaScript, no framework or packa
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Developer121438/buna-cafe/blob/main
 ```
 
 ### 2. Open the project
