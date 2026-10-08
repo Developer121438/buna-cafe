@@ -2544,6 +2544,11 @@ nav ul li a.active {
     font-weight: 600;
 }
 
+@media (max-width: 768px) {
+    .favcards:hover {
+      display: none;
+    }
+}
 /* Clear Order Button */
 
 .clear-order {
