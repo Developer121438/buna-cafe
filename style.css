@@ -259,7 +259,6 @@ section p {
   height: 350px;
   object-fit: cover;
   border-radius: 15px;
-
   transition:
     transform 0.4s ease,
     box-shadow 0.4s ease;
@@ -2545,7 +2544,7 @@ nav ul li a.active {
 }
 
 @media (max-width: 768px) {
-    .favcards:hover {
+    .favcards:hover::after {
       display: none;
     }
 }
