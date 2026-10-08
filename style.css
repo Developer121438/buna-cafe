@@ -2543,9 +2543,10 @@ nav ul li a.active {
     font-weight: 600;
 }
 
-@media (max-width: 768px) {
+/* Disable hover effect on tablets and mobile */
+@media (max-width: 1024px) {
     .favcards:hover::after {
-      display: none;
+        content: none;
     }
 }
 /* Clear Order Button */
